@@ -1,0 +1,4 @@
+rootProject.name = 'DL4JRep'
+include 'working'
+include 'failed'
+
